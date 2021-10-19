@@ -1,4 +1,4 @@
-# DCL-Dehaze
+# UCL-Dehaze
 
 # UCL-Dehaze: Towards Real-world Image Dehazing via Unsupervised ContrastiveLearning
 
