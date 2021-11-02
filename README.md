@@ -1,5 +1,3 @@
-# UCL-Dehaze
-
 # UCL-Dehaze: Towards Real-world Image Dehazing via Unsupervised ContrastiveLearning
 
 # Code for UCL-Dehaze
